@@ -1,16 +1,20 @@
-### Hi there 👋
+## Hey there 👋 
+Welcome to my **nearly** abandoned GitHub page, and since Discord suddenly decided to implement GitHub page linking, I'll be making a personal page here.
 
-<!--
-**cutofmeat/cutofmeat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Cut Of Meat**, or **Joseph** if you'd like to address me personally. I'm from the east part of the United States and plan on advancing in my coding professions in the coming years. 
 
-Here are some ideas to get you started:
+I don't tend to be on GitHub as much, so if you want to keep in touch with me, you can check my progression on some Medium articles I make and message me on Discord for a quick conversation. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Discord:** Cut Of Meat#0001   
+**Medium:** @cutofmeat
+
+## Interests 🔧
+
+I hope to increase my knowledge in **basic coding**, primarily focusing on programming languages like **Python**, **CSS**, **JavaScript** and **C#**.
+
+```bash
+have you seen my profile picture yet?
+```
+
+![Twitch Status](https://img.shields.io/twitch/status/cutofmeet?label=cutofmeet%20on%20twitch&logo=twitch&style=plastic)
+![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/InitialWay5?color=%3D&label=u%2FInitialWay5%20karma%20count&logo=reddit&style=plastic)
